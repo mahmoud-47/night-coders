@@ -39,5 +39,4 @@ Constraints:
 
 class Solution:
     def alternate_sum(self, num):
-        # your code goes here
-        pass
+        

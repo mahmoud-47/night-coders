@@ -70,13 +70,13 @@ def test_most_popular_library():
         "add book2",
         "add book3",
         "visit libC",
-        "add book4"
-        "add book4"
-        "add book4"
-        "add book4"
-        "add book4"
-        "add book4"
-        "add book4"
+        "add book4",
+        "add book4",
+        "add book4",
+        "add book4",
+        "add book4",
+        "add book4",
+        "add book4",
         "visit libA",
         "add book1",
         "add book1",
