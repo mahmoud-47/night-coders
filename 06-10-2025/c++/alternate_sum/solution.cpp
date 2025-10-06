@@ -26,7 +26,7 @@ Example 2
 Input :
 num = 98765
 
-Output: 5
+Output: 7
 
 Explanation:
     9 - 8 + 7 - 6 + 5 = 7
