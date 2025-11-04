@@ -38,7 +38,7 @@ threshold = 4
 Output: 4
 
 Explanation:
-    - subarray [1, 2, 1, 1] → sum = 5, previous sum = 5 → 5 - 5 = 0 <= 4 (OK) length = 4
+    - subarray [1, 2, 1, 1, 3] → sum = 8, previous sum = 5 → 8 - 5 = 3 <= 4 (OK) length = 5
     - no longer subarray satisfies the condition.
 ---
 
